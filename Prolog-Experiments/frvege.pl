@@ -1,0 +1,2 @@
+food(apples).
+food(vegetables).
